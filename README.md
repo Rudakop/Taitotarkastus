@@ -1,0 +1,2 @@
+# Taitotarkastus
+Suunnittelu Taitotalon kuvitteelliselle opiskelijapelille etusivun käyttöliittymä
